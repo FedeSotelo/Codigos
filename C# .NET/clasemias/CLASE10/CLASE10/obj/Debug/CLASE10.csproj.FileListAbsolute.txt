@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\bin\Debug\CLASE10.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\bin\Debug\CLASE10.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\bin\Debug\CLASE10.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\obj\Debug\CLASE10.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\obj\Debug\CLASE10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\obj\Debug\CLASE10.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\obj\Debug\CLASE10.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE10\CLASE10\obj\Debug\CLASE10.pdb

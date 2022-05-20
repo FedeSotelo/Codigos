@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.deps.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.runtimeconfig.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase2-Miercoles 6-4\Resueltos\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.genruntimeconfig.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.exe
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.deps.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.runtimeconfig.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.runtimeconfig.dev.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\bin\Debug\netcoreapp3.1\Clase2-Ejer1.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.AssemblyInfoInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.AssemblyInfo.cs
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejer1\obj\Debug\netcoreapp3.1\Clase2-Ejer1.genruntimeconfig.cache

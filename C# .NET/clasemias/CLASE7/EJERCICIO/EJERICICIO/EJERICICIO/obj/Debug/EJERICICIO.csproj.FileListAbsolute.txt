@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\bin\Debug\EJERICICIO.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\bin\Debug\EJERICICIO.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\bin\Debug\EJERICICIO.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\obj\Debug\EJERICICIO.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\obj\Debug\EJERICICIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\obj\Debug\EJERICICIO.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\obj\Debug\EJERICICIO.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\EJERCICIO\EJERICICIO\EJERICICIO\obj\Debug\EJERICICIO.pdb

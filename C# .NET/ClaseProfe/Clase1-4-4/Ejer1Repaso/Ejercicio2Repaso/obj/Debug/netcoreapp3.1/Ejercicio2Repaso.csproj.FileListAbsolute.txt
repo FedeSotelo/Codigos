@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.exe
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.deps.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.dll
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.pdb
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.dll
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.pdb
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.genruntimeconfig.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.exe
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.deps.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.runtimeconfig.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.runtimeconfig.dev.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\bin\Debug\netcoreapp3.1\Ejercicio2Repaso.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.AssemblyInfoInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.AssemblyInfo.cs
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase1-4-4\Ejer1Repaso\Ejercicio2Repaso\obj\Debug\netcoreapp3.1\Ejercicio2Repaso.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\bin\Debug\Clase3.1.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\bin\Debug\Clase3.1.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\bin\Debug\Clase3.1.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\obj\Debug\Clase3.1.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\obj\Debug\Clase3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\obj\Debug\Clase3.1.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\obj\Debug\Clase3.1.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\Clase3.1\Clase3.1\obj\Debug\Clase3.1.pdb

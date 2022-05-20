@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfGNyLJGrP/aelKzDN0IuFLrl+9VT6ixLliaSNCy1959fagc0eXVRjzVEmsZdMEzCFsWRWFAeTUoYxoZ+zAdkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Feden\\Desktop\\C# .NET\\ClaseProfe\\Clase1-4-4\\Ejer1Repaso\\Ejercicio2Repaso\\Ejercicio2Repaso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Feden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Feden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Feden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Feden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

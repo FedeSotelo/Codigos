@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.deps.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.runtimeconfig.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\bin\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\Ejer1ClaseAbstractas\Ejer1ClaseAbstractas\obj\Debug\netcoreapp3.1\Ejer1ClaseAbstractas.genruntimeconfig.cache

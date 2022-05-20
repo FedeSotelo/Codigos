@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\bin\Debug\ejercicioComplicadoclase2.exe.config
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\bin\Debug\ejercicioComplicadoclase2.exe
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\bin\Debug\ejercicioComplicadoclase2.pdb
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\obj\Debug\ejercicioComplicadoclase2.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\obj\Debug\ejercicioComplicadoclase2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\obj\Debug\ejercicioComplicadoclase2.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\obj\Debug\ejercicioComplicadoclase2.exe
+C:\Users\Feden\Desktop\C# .NET\ejercicioComplicadoclase2\ejercicioComplicadoclase2\obj\Debug\ejercicioComplicadoclase2.pdb

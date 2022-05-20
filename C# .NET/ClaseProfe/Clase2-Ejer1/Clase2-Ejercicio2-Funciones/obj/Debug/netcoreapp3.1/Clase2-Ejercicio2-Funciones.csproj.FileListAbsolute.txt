@@ -1,0 +1,14 @@
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.exe
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.deps.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.runtimeconfig.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.runtimeconfig.dev.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\bin\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.AssemblyInfoInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.AssemblyInfo.cs
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\Clase2-Ejer1\Clase2-Ejercicio2-Funciones\obj\Debug\netcoreapp3.1\Clase2-Ejercicio2-Funciones.genruntimeconfig.cache

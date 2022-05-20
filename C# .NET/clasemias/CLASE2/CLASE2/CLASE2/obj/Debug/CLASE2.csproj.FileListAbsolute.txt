@@ -1,0 +1,16 @@
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\bin\Debug\CLASE2.exe.config
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\bin\Debug\CLASE2.exe
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\bin\Debug\CLASE2.pdb
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\obj\Debug\CLASE2.exe
+C:\Users\Feden\Desktop\C# .NET\CLASE2\CLASE2\obj\Debug\CLASE2.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\bin\Debug\CLASE2.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\bin\Debug\CLASE2.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\bin\Debug\CLASE2.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\obj\Debug\CLASE2.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\obj\Debug\CLASE2.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE2\CLASE2\obj\Debug\CLASE2.pdb

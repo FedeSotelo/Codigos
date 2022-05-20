@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #0099FF; /*color de fondo*/
+    font-size: 24px; /*tipo de fuente*/
+}
+
+.estilo1 {
+    text-align: center; /*centrado*/
+    font-weight: normal; /*peso*/
+    text-decoration: underline; /*subrayado*/
+    font-size: 40px; /*tipo de fuente*/
+    color: white;
+}
+

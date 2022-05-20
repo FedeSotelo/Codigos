@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\bin\Debug\WFConCollecciones.exe.config
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\bin\Debug\WFConCollecciones.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\bin\Debug\WFConCollecciones.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.Form1.resources
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.Properties.Resources.resources
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\WFConCollecciones\WFConCollecciones\obj\Debug\WFConCollecciones.pdb

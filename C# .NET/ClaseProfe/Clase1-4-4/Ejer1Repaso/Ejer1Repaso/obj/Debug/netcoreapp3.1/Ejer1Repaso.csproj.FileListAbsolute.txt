@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.exe
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.deps.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.dll
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\bin\Debug\netcoreapp3.1\Ejer1Repaso.pdb
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.dll
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.pdb
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejer1Repaso\Ejer1Repaso\obj\Debug\netcoreapp3.1\Ejer1Repaso.csproj.AssemblyReference.cache

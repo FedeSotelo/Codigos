@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Feden\Desktop\C# .NET\prueba\ejercicio\ejercicio\obj\Debug\ejercicio.pdb

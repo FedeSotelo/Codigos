@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\obj\Debug\EJER.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\obj\Debug\EJER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\obj\Debug\EJER.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\bin\Debug\EJER.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\bin\Debug\EJER.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\bin\Debug\EJER.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\obj\Debug\EJER.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE3\CLASE3EJER\EJER\EJER\obj\Debug\EJER.pdb

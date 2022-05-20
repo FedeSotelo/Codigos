@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\bin\Debug\EjemploInterfaz2.exe.config
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\bin\Debug\EjemploInterfaz2.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\bin\Debug\EjemploInterfaz2.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\obj\Debug\EjemploInterfaz2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\obj\Debug\EjemploInterfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\obj\Debug\EjemploInterfaz2.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjemploInterfaz2\EjemploInterfaz2\obj\Debug\EjemploInterfaz2.pdb

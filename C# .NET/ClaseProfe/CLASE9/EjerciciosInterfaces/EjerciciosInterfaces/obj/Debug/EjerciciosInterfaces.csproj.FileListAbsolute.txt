@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\bin\Debug\EjerciciosInterfaces.exe.config
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\bin\Debug\EjerciciosInterfaces.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\bin\Debug\EjerciciosInterfaces.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\obj\Debug\EjerciciosInterfaces.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\obj\Debug\EjerciciosInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\obj\Debug\EjerciciosInterfaces.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase9-Miercoles 4-5\Resueltos\EjerciciosInterfaces\EjerciciosInterfaces\obj\Debug\EjerciciosInterfaces.pdb

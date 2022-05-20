@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.deps.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.runtimeconfig.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.Form1.resources
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase7-Lunes 25-4\Resueltos\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.genruntimeconfig.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.exe
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.deps.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.runtimeconfig.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.runtimeconfig.dev.json
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\bin\Debug\netcoreapp3.1\HerenciaConWF.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.Form1.resources
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.GenerateResource.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.AssemblyInfoInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.AssemblyInfo.cs
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.dll
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.pdb
+C:\Users\Feden\Desktop\C# .NET\ClaseProfe\clase7\HerenciaConWF\HerenciaConWF\obj\Debug\netcoreapp3.1\HerenciaConWF.genruntimeconfig.cache

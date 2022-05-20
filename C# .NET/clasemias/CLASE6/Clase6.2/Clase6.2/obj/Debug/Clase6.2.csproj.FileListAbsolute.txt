@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\bin\Debug\Clase6.2.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\bin\Debug\Clase6.2.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\bin\Debug\Clase6.2.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\obj\Debug\Clase6.2.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\obj\Debug\Clase6.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\obj\Debug\Clase6.2.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\obj\Debug\Clase6.2.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE6\Clase6.2\Clase6.2\obj\Debug\Clase6.2.pdb

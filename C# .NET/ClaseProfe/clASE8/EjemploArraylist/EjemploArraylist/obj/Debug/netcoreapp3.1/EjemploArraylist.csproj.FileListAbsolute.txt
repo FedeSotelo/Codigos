@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.exe
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.deps.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.runtimeconfig.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\bin\Debug\netcoreapp3.1\EjemploArraylist.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.dll
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.pdb
+C:\Users\Usuario\Desktop\0) Año 2022\1) Educacion It\3) Prog. Net\Clase8-Miercoles 27-4\Resueltos\EjemploArraylist\EjemploArraylist\obj\Debug\netcoreapp3.1\EjemploArraylist.genruntimeconfig.cache

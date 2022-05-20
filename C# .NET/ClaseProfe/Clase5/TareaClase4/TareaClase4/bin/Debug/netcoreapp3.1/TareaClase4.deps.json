@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TareaClase4/1.0.0": {
+        "runtime": {
+          "TareaClase4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareaClase4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

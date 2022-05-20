@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\bin\Debug\clase3.2POO.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\bin\Debug\clase3.2POO.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\bin\Debug\clase3.2POO.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\obj\Debug\clase3.2POO.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\obj\Debug\clase3.2POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\obj\Debug\clase3.2POO.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\obj\Debug\clase3.2POO.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\clase3.2POO\clase3.2POO\obj\Debug\clase3.2POO.pdb

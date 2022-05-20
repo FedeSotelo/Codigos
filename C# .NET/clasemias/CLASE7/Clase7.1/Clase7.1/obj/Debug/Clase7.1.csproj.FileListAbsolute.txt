@@ -1,0 +1,8 @@
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\bin\Debug\Clase7.1.exe.config
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\bin\Debug\Clase7.1.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\bin\Debug\Clase7.1.pdb
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\obj\Debug\Clase7.1.csproj.AssemblyReference.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\obj\Debug\Clase7.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\obj\Debug\Clase7.1.csproj.CoreCompileInputs.cache
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\obj\Debug\Clase7.1.exe
+C:\Users\Feden\Desktop\C# .NET\clasemias\CLASE7\Clase7.1\Clase7.1\obj\Debug\Clase7.1.pdb

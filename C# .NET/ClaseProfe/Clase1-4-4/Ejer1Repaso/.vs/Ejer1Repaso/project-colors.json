@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6db087bf-5bdd-4fcc-b116-4e1945a44cce": {
+      "ProjectGuid": "6db087bf-5bdd-4fcc-b116-4e1945a44cce",
+      "DisplayName": "Ejer1Repaso",
+      "ColorIndex": 0
+    },
+    "56ddfa7c-c491-45f8-96b5-ed30162eeec8": {
+      "ProjectGuid": "56ddfa7c-c491-45f8-96b5-ed30162eeec8",
+      "DisplayName": "Ejercicio2Repaso",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
